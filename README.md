@@ -69,10 +69,8 @@ The main modules are
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
-
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+While logistic regression showed competitive performance in personality prediction, its superiority over other algorithms varied based on the dataset's characteristics. While it demonstrated good interpretability and general accuracy, it didn't consistently out perform all other algorithms across different datasets. Algorithms like random forests or gradient boosting occasionally exhibited slightly higher accuracy, especially in handling non-linear relationships in the data. The choice of the most accurate algorithm proved to be data-dependent, emphasizing the need to select models based on specific data complexities. Overall, logistic regression remains a reliable choice due to its interpretability and decent performance, but considering different algorithms based on dataset nuances is crucial for optimal predictive accuracy in personality prediction tasks.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1. "Analyzing Personality Insights Through Machine Learning", Authors - Gaddam Venkata Mohan Krishna, Department of Computer Science and Engineering, Saveetha Engineering College (Autonomous), Chennai, India, Dr. M. Vijay Anand Department of Computer Science and Engineering, Saveetha Engineering College (Autonomous), Chennai, India
+2. Hassan, A. E., Zhang, F., Zheng, Q., and Zou, Y. (2022, May). Crossproject defect prediction with an unsupervised classifier based on connectivity. 38th Worldwide Conference on Computer Engineering Proceedings, pp. 309–320. 
