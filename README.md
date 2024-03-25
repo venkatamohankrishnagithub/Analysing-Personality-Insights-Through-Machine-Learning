@@ -38,23 +38,33 @@ The main modules are
 •	Back end	: Google Colaboratory/ PYCHARM
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![Screenshot (119)](https://github.com/venkatamohankrishnagithub/Analysing-Personality-Insights-Through-Machine-Learning/assets/127727792/7523acbb-dddd-448f-965a-ff62105cada2)
+
+## Output:
+
+### Dataset Classification:
+![image](https://github.com/venkatamohankrishnagithub/Analysing-Personality-Insights-Through-Machine-Learning/assets/127727792/e52749e9-dd41-491c-9387-2020cc946b34)
+
+### Classification Types:
+![image](https://github.com/venkatamohankrishnagithub/Analysing-Personality-Insights-Through-Machine-Learning/assets/127727792/03b8f121-c22d-4772-9aa2-d28963e1aa91)
+
+### ViolinPlot Classification:
+![image](https://github.com/venkatamohankrishnagithub/Analysing-Personality-Insights-Through-Machine-Learning/assets/127727792/805e3abd-26e9-4a0f-af88-a7eeb20956bd)
+
+### Accuracy Chart:
+![image](https://github.com/venkatamohankrishnagithub/Analysing-Personality-Insights-Through-Machine-Learning/assets/127727792/711ca75b-83bc-4e0c-bd41-7aa4607485e7)
+
+### Prediction Graph:
+![image](https://github.com/venkatamohankrishnagithub/Analysing-Personality-Insights-Through-Machine-Learning/assets/127727792/b307194a-c03e-4515-a622-fd5c11887e11)
+
+### Prediction Accuracy:
+![image](https://github.com/venkatamohankrishnagithub/Analysing-Personality-Insights-Through-Machine-Learning/assets/127727792/1ae4cf45-07fb-4cfa-a4d5-fcbbe6790e6c)
 
 
-## Output
+### Prediction Result:
+![image](https://github.com/venkatamohankrishnagithub/Analysing-Personality-Insights-Through-Machine-Learning/assets/127727792/4dc913c2-123a-4f2d-83b8-57d4d3fbe848)
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
-
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
-
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
-
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
